@@ -1,0 +1,275 @@
+body{
+    background: white;
+    font-size: 1rem;
+    line-height: 1.4rem;
+    margin: 0 auto;
+}
+
+.main{
+    height: 100%;
+    padding-bottom: 6rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main_container{
+    padding-top: 10rem;
+    align-items: center;
+    height: 100%;
+    max-width: 500px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.header{
+    background: white;
+    color: black;
+    padding: 2rem 0;
+    position: fixed;
+    max-width: 1400px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.header a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+}
+
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo{
+    font-size: 1.2em;
+    font-family: 'Comfortaa', cursive;
+    margin-left: 20px;
+}
+
+.menu-icon{
+    display: none;
+}
+
+.navigation ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navigation ul li{
+    display: inline-block;
+}
+
+.navigation ul li a{
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: all 0.4ms linear;
+    border-radius: 5px;
+}
+
+.navigation ul li a:hover{
+    color:black;
+    font-weight: bold;
+}
+
+.container1{
+    width: 100%;
+    background: white;
+    line-height: 40px;
+    align-items: center;
+    font-family: 'Comfortaa', cursive;
+}
+
+form{
+    background: white;
+    width: 100%;
+    padding: 10px 0;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.8);
+}
+
+.form{
+    width: 100%;
+    margin: auto;
+}
+
+form .grupo{
+    margin: 35px;
+    text-align: left;
+}
+
+input, textarea{
+    color: black;
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 100%;
+    border:none;
+    border-bottom: 1px solid var(--colorTextos);
+    resize: none;
+    border-radius: 7px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+label{
+    color: var(--colorTextos);
+    font-size: 16px;
+    left: 5px;
+}
+
+
+button{
+    background: #2b6799;
+    display: block;
+    width: 100px;
+    height: 40px;
+    border:none;
+    color:#fff; 
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.container1 h1{
+    font-size: 30px;
+}
+
+.footer{
+    background: black;
+    padding: 1rem 0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    align-items: center;
+    /*display: inline;*/
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.footer img{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+    height: 40px;
+}
+
+@media only screen and(max-width: 900px){
+    .footer{
+        position: fixed;
+        right: 0;
+        left: 0;
+        bottom: 0;
+    }
+    .container1{
+        width: 80%;
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+
+    .header{
+        margin: 0 auto;
+        background: white;
+        align-items: center;
+        min-height: 50px;
+        padding: 10px;
+    }
+
+    .main{
+        height: 100vh;
+    }
+
+    .main_container{
+        display: list-item;
+        text-align: center;
+        padding-top: 6rem;
+        width: 100%;
+        align-items: center;
+    }
+    
+    .menu-icon{
+        display: block;
+        cursor: pointer;
+        margin-right: 10px;
+    }
+
+    .navigation {
+        width: 100%;
+    }
+
+    .navigation ul {
+        display: none;
+        text-align: center;
+        height: 100vh;
+    }
+
+    .navigation ul.show{
+        display: block;
+    }
+    
+    .navigation ul li{
+        display: block;
+    }
+    
+    .navigation ul li a{
+        display: block;
+        padding: 1rem 0;
+        transition: all 0.4ms linear;
+        border-radius: 5px;
+    }
+    
+    .navigation ul li a:hover{
+        color:black;
+        font-weight: bold;
+        align-items: center;
+    }
+
+    .container1{
+        min-width: 250px;
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+    
+}
+
+@media only screen and (max-height:880px){
+
+    .main{
+        background: white;
+        height: 100%;
+        min-height: 80%;
+    }
+    
+    .container1{
+        min-width: 250px;
+        width: 90%;
+        align-items: center;
+        background: white;
+        padding: 10px;
+    }
+    
+
+    .footer{
+        position: relative;
+        width: 100%;
+        background: black;
+        background-size: 50px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+}
