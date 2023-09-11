@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/titodevs.github.io/static/css/main.44fcb395.css",
-    "main.js": "/titodevs.github.io/static/js/main.14f0a8af.js",
+    "main.css": "/titodevs.github.io/static/css/main.83e1955f.css",
+    "main.js": "/titodevs.github.io/static/js/main.d5694dd5.js",
     "static/js/787.6a7ebce0.chunk.js": "/titodevs.github.io/static/js/787.6a7ebce0.chunk.js",
-    "static/media/profile_V6.svg": "/titodevs.github.io/static/media/profile_V6.a7df73ecc26477837207af0a8ba71b41.svg",
+    "static/media/perfil.png": "/titodevs.github.io/static/media/perfil.55b49d119a04e346f27c.png",
     "static/media/logo.svg": "/titodevs.github.io/static/media/logo.b0c0b7e4a0c487fbfdeeeeb84cea9c16.svg",
     "static/media/logofooter.svg": "/titodevs.github.io/static/media/logofooter.d37bb275489881f76eb42b2afdd41def.svg",
     "index.html": "/titodevs.github.io/index.html",
-    "main.44fcb395.css.map": "/titodevs.github.io/static/css/main.44fcb395.css.map",
-    "main.14f0a8af.js.map": "/titodevs.github.io/static/js/main.14f0a8af.js.map",
+    "main.83e1955f.css.map": "/titodevs.github.io/static/css/main.83e1955f.css.map",
+    "main.d5694dd5.js.map": "/titodevs.github.io/static/js/main.d5694dd5.js.map",
     "787.6a7ebce0.chunk.js.map": "/titodevs.github.io/static/js/787.6a7ebce0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44fcb395.css",
-    "static/js/main.14f0a8af.js"
+    "static/css/main.83e1955f.css",
+    "static/js/main.d5694dd5.js"
   ]
 }
