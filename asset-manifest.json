@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/titodevs.github.io/static/css/main.fb74e75a.css",
-    "main.js": "/titodevs.github.io/static/js/main.ba4c3d46.js",
-    "static/js/787.6a7ebce0.chunk.js": "/titodevs.github.io/static/js/787.6a7ebce0.chunk.js",
-    "static/media/profile_V6.svg": "/titodevs.github.io/static/media/profile_V6.a7df73ecc26477837207af0a8ba71b41.svg",
-    "static/media/perfil.png": "/titodevs.github.io/static/media/perfil.55b49d119a04e346f27c.png",
-    "static/media/logo.svg": "/titodevs.github.io/static/media/logo.b0c0b7e4a0c487fbfdeeeeb84cea9c16.svg",
-    "static/media/logofooter.svg": "/titodevs.github.io/static/media/logofooter.58dca9f4394e23a170a8891979f8753d.svg",
-    "index.html": "/titodevs.github.io/index.html",
-    "main.fb74e75a.css.map": "/titodevs.github.io/static/css/main.fb74e75a.css.map",
-    "main.ba4c3d46.js.map": "/titodevs.github.io/static/js/main.ba4c3d46.js.map",
-    "787.6a7ebce0.chunk.js.map": "/titodevs.github.io/static/js/787.6a7ebce0.chunk.js.map"
+    "main.css": "/static/css/main.814f3de2.css",
+    "main.js": "/static/js/main.abab406c.js",
+    "static/js/787.6a7ebce0.chunk.js": "/static/js/787.6a7ebce0.chunk.js",
+    "static/media/profile_V6.svg": "/static/media/profile_V6.a7df73ecc26477837207af0a8ba71b41.svg",
+    "static/media/perfil.png": "/static/media/perfil.55b49d119a04e346f27c.png",
+    "static/media/logo.svg": "/static/media/logo.b0c0b7e4a0c487fbfdeeeeb84cea9c16.svg",
+    "static/media/logofooter.svg": "/static/media/logofooter.58dca9f4394e23a170a8891979f8753d.svg",
+    "index.html": "/index.html",
+    "main.814f3de2.css.map": "/static/css/main.814f3de2.css.map",
+    "main.abab406c.js.map": "/static/js/main.abab406c.js.map",
+    "787.6a7ebce0.chunk.js.map": "/static/js/787.6a7ebce0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb74e75a.css",
-    "static/js/main.ba4c3d46.js"
+    "static/css/main.814f3de2.css",
+    "static/js/main.abab406c.js"
   ]
 }
