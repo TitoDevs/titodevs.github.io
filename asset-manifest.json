@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.5be98ba5.css",
-    "main.js": "/static/js/main.deebc42a.js",
+    "main.css": "/static/css/main.71e7446f.css",
+    "main.js": "/static/js/main.a3a22fdb.js",
     "static/js/787.6a7ebce0.chunk.js": "/static/js/787.6a7ebce0.chunk.js",
     "static/media/profile_V6.svg": "/static/media/profile_V6.a7df73ecc26477837207af0a8ba71b41.svg",
     "static/media/titoblog.png": "/static/media/titoblog.28b3deb9bfabe0685962.png",
+    "static/media/qrapp.png": "/static/media/qrapp.b04e34fd1c20f69ce594.png",
     "static/media/perfil.png": "/static/media/perfil.55b49d119a04e346f27c.png",
     "static/media/titodev.png": "/static/media/titodev.72d59c49ef94a808e769.png",
     "static/media/todoapp.png": "/static/media/todoapp.ee42b69f291fa8334b22.png",
@@ -12,12 +13,12 @@
     "static/media/logo.svg": "/static/media/logo.b0c0b7e4a0c487fbfdeeeeb84cea9c16.svg",
     "static/media/logofooter.svg": "/static/media/logofooter.58dca9f4394e23a170a8891979f8753d.svg",
     "index.html": "/index.html",
-    "main.5be98ba5.css.map": "/static/css/main.5be98ba5.css.map",
-    "main.deebc42a.js.map": "/static/js/main.deebc42a.js.map",
+    "main.71e7446f.css.map": "/static/css/main.71e7446f.css.map",
+    "main.a3a22fdb.js.map": "/static/js/main.a3a22fdb.js.map",
     "787.6a7ebce0.chunk.js.map": "/static/js/787.6a7ebce0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5be98ba5.css",
-    "static/js/main.deebc42a.js"
+    "static/css/main.71e7446f.css",
+    "static/js/main.a3a22fdb.js"
   ]
 }
