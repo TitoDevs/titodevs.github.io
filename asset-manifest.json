@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.71e7446f.css",
-    "main.js": "/static/js/main.81020869.js",
+    "main.js": "/static/js/main.d6240917.js",
     "static/js/787.6a7ebce0.chunk.js": "/static/js/787.6a7ebce0.chunk.js",
     "static/media/profile_V6.svg": "/static/media/profile_V6.a7df73ecc26477837207af0a8ba71b41.svg",
     "static/media/titoblog.png": "/static/media/titoblog.28b3deb9bfabe0685962.png",
@@ -11,15 +11,16 @@
     "static/media/titodev.png": "/static/media/titodev.72d59c49ef94a808e769.png",
     "static/media/todoapp.png": "/static/media/todoapp.ee42b69f291fa8334b22.png",
     "static/media/loginapp.png": "/static/media/loginapp.047975f4447977e86376.png",
+    "static/media/chatmvc.png": "/static/media/chatmvc.5f4eed30aabc20847762.png",
     "static/media/logo.svg": "/static/media/logo.b0c0b7e4a0c487fbfdeeeeb84cea9c16.svg",
     "static/media/logofooter.svg": "/static/media/logofooter.58dca9f4394e23a170a8891979f8753d.svg",
     "index.html": "/index.html",
     "main.71e7446f.css.map": "/static/css/main.71e7446f.css.map",
-    "main.81020869.js.map": "/static/js/main.81020869.js.map",
+    "main.d6240917.js.map": "/static/js/main.d6240917.js.map",
     "787.6a7ebce0.chunk.js.map": "/static/js/787.6a7ebce0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71e7446f.css",
-    "static/js/main.81020869.js"
+    "static/js/main.d6240917.js"
   ]
 }
